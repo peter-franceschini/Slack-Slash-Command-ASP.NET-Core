@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlackSlashCommandBase", "src\SlackSlashCommandBase\SlackSlashCommandBase.csproj", "{37D899D4-6562-435C-867F-594EF66C39C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackSlashCommandBase.Test", "SlackSlashCommandBase.Test\SlackSlashCommandBase.Test.csproj", "{D794BF22-FB68-475D-BDCC-FC92E1363C84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackSlashCommandBase.Test", "src\SlackSlashCommandBase.Test\SlackSlashCommandBase.Test.csproj", "{D794BF22-FB68-475D-BDCC-FC92E1363C84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
